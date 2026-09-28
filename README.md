@@ -1,7 +1,4 @@
-# Is it a bird? fast ai updated working code	
-Im currently working through the fast ai deep learning course and this is the updated bird or forest classifier.
-Some of the functions were outdated resulting into errors. The code above is up to date and the model is fully working 
-Hope this helps someone who is struggling (●'◡'●)
+
 <!--
 **Tonica-Mito/Tonica-Mito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
